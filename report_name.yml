@@ -1,0 +1,13 @@
+reports:
+  - Client_Level_Inventory_Summary_Report-EGDC
+  - Client_Level_Inventory_Summary_Report-ESKD
+  - Client_Level_Inventory_Summary_Report-LPPL
+  - Client_Level_Inventory_Summary_Report-NUGE
+  - Client_Wise_Stock_Ageing_Report-EGDC
+  - Client_Wise_Stock_Ageing_Report-ESKD
+  - Client_Wise_Stock_Ageing_Report-LPPL
+  - Client_Wise_Stock_Ageing_Report-NUGE
+  - Inventory_Report-ARS
+  - Inventory_Report-Durdans
+  - Inventory_Report-HMS
+  - Inventory_Report-SOFT
